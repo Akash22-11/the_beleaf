@@ -80,7 +80,7 @@ project/
 
 ### 1. Create a Player
 
-```python
+```Python
 player = Player("Yeager")
 ```
 
