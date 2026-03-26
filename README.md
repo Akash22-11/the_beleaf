@@ -53,7 +53,7 @@ When earned XP exceeds the required threshold:
 
 ---
 
-## 🏆 Rank System
+## 🏆 Rank System,
 
 | Level Range | Rank              |
 | ----------- | ----------------- |
